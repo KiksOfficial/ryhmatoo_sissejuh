@@ -4,12 +4,12 @@ body {
 }
 
 .header {
-  background-color: grey;
   width: 100%;
   padding: 15px 20px;
   gap: 20px;
   display: flex;
   align-items: center;
+  background: linear-gradient(to right, #8693ab, #bdd4e7);
 }
 
 .header_button {
