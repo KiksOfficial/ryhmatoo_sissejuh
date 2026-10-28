@@ -1,0 +1,21 @@
+body {
+    background-color: seashell;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: darksalmon;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    font-size: 16px;
+}
